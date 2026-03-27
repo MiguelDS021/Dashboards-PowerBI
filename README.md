@@ -1,1 +1,1 @@
-Aqui estão todos os meus dashboards fritos no Power BI
+Aqui estão todos os meus dashboards feitos no Power BI
